@@ -1,0 +1,31 @@
+# **Lab Worksheet Overview**
+
+## **Project Title**
+
+**Smart Herd Tracking System Using RFID Microchips for Mobile Bomas in Mara North Conservancy**
+
+## **Project Overview**
+
+Livestock keeping is the primary source of income for many families living around the Maasai Mara, especially in Mara North Conservancy. One of the major challenges pastoralists face is the loss of cattle due to theft, wandering into wildlife habitats, mixing with neighboring herds during grazing, or failing to return to the mobile boma. These losses lead to significant financial hardship, conflicts within communities, and increased risks for both livestock and wildlife.
+
+The **Smart Herd Tracking System** is a software solution designed to reduce cattle losses by combining **RFID (Radio Frequency Identification) microchip technology**, **GPS location tracking**, and a **mobile and web application**. Each animal is assigned a unique RFID microchip or RFID ear tag, allowing automatic identification whenever it passes through an RFID reader installed at a mobile boma. The system records every entry and exit, tracks herd movements, and stores ownership information in a secure cloud database.
+
+Livestock owners can use a mobile application to register cattle, monitor herd locations, receive alerts when animals leave designated grazing areas, report missing cattle, and access movement history. Conservancy rangers and authorized officers can use a web dashboard to verify ownership, assist in recovering lost animals, and generate reports on herd movement and grazing patterns.
+
+The project aims to improve livestock security, reduce economic losses, strengthen collaboration between livestock owners and conservancy management, and support sustainable livestock management through the use of modern digital technologies. By providing real-time monitoring and accurate identification, the system will enhance decision-making, improve response times when cattle go missing, and contribute to peaceful coexistence between pastoral communities and wildlife in the Maasai Mara ecosystem.
+
+## **Project Goal**
+
+To develop a smart livestock management system that uses RFID microchips and GPS technology to monitor cattle movements, prevent herd loss, improve livestock security, and provide real-time information to livestock owners and conservancy officers.
+
+## **Expected Outcomes**
+
+* Reduced cases of lost and stolen cattle.
+* Accurate identification of every registered animal.
+* Real-time monitoring of herd movements.
+* Faster recovery of missing livestock.
+* Improved livestock management and record keeping.
+* Enhanced collaboration between pastoralists and conservancy management.
+* Data-driven reporting to support better grazing and livestock management decisions.
+
+This project provides a practical, technology-driven solution to a real community challenge in the Maasai Mara and demonstrates how software engineering can improve livelihoods while supporting conservation efforts.
